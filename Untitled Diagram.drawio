@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T05:07:50.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" version="22.0.4" etag="gT-j_xHnk59iWo9mJQga" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T05:15:02.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="reZUoKs6ItkWbsmvU5UW" version="22.0.4" type="github">
   <diagram name="Page-1" id="yg7DZBFzdx4pAL2Qoueg">
-    <mxGraphModel>
+    <mxGraphModel dx="785" dy="1110" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wqMYxor6zknnW_F7e4wh-1" value="working area" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wqMYxor6zknnW_F7e4wh-2" value="index/staging area" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="325" y="320" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wqMYxor6zknnW_F7e4wh-3" value="remote repository" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="570" y="320" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wqMYxor6zknnW_F7e4wh-4" value="stash area" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="325" y="495" width="200" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
